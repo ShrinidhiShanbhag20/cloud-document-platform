@@ -1,0 +1,1 @@
+It allows to uplod a file,then validates the file and it's type for example .pdf and so on..., then stores the file and then save the metadata in database. Then let you search, save, delete, edit. 
